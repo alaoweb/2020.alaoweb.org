@@ -8,9 +8,9 @@ plugins:
 safe: false
 
 #Google-Analytics & API Key
-googleAnalyticsTrackingId: "UA-**********"
+googleAnalyticsTrackingId: "UA-101881286-2"
 googleAnalyticsSiteUrl: "2020.alaoweb.org"
-siteVerification: ""
+siteVerification: "2dvmkAUuRuFhMopsqIvEBr1-YCYHb9v2Py9FEsrUg40"
 googleMapsApiKey: "AIzaSyDUQZ2d8zeEcwzJur9Av9KSg2l1W1NNaH8"
 
 #Head
@@ -42,7 +42,7 @@ permalink: "/posters/:title"
 aboutTitle: "ALAO Virtual Conference"
 aboutBlock:
  - {title: "Sessions", image: "sessions.jpg", text: "Prerecorded traditional presentations with live Q&A" }
- - {title: "Pre-Conference", image: "preconference.jpg", text: "An opportunity for a deeper dive into a single topic in a workshop format" }
+ - {title: "Pre-Conferences", image: "preconference.jpg", text: "An opportunity for a deeper dive into a single topic in a workshop format" }
  - {title: "Posters", image: "posters.jpg", text: "Short videos with asynchronous, text-based Q&A" }
  - {title: "Networking", image: "networking.jpg", text: "Opportunities to connect with other attendees in a less formal structure"}
 
@@ -69,8 +69,8 @@ codContactEmail: a.goodsett@csuohio.edu
 conferenceYear: 2020
 
 socialLinks:
- - {link: "https://twitter.com/ALAOorg", icon: "twitter"}
- - {link: "https://www.facebook.com/ALAOorg", icon: "facebook"}
+ - {link: "https://twitter.com/ALAOorg", icon: "twitter", title: "Twitter"}
+ - {link: "https://www.facebook.com/ALAOorg", icon: "facebook", title: "Facebook"}
 
 footerBlocks:
  - title: "Links"
@@ -86,18 +86,18 @@ footerBlocks:
 # -------------------------------------------------------------
 # Hero Block - Main Section
 # -------------------------------------------------------------
+heroTitle: "Resilience: Sustainable & Thriving Academic Libraries for the Future"
 heroImage: "resilience_logo_white.svg"
-heroTitle: ""
-eventDate: ""
+eventDate: "October 29-30, 2020"
 typeoutEnable: false
 typeoutTextValues: '"", "Resilient"'
 typeoutFallback: "Resilience"
 
 # Call to Action Buttons
 heroButtons:
+  - {permalink: "/#tickets", text: "Register"}
   - {link: "https://forms.gle/DWoBhvAnJDDiR3tv6", text: "Apply for Scholarship"}
   #- {link: "https://docs.google.com/forms/d/e/1FAIpQLSdfGZEuGcn_KmpEqd9-GgU-xPWhViP1bivXOvJKcEvJ1DtLFw/viewform", text: "Become a speaker"}
-  #- {permalink: "/#tickets", text: "Register"}
 
 # -------------------------------------------------------------
 # Latest News Block
@@ -167,7 +167,7 @@ directionDetailsWideCards:
 # -------------------------------------------------------------
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/preconference/", text: "Preconference"}
+ - {permalink: "/preconference/", text: "Preconferences"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/posters/", text: "Posters"}
@@ -192,9 +192,9 @@ sponsorsTitle: "Conference Sponsors"
 # -------------------------------------------------------------
 postersTitle: "POSTER SESSIONS"
 postersBackground: waves-background.svg
-showPosters: false
+showPosters: true
 noPostersText: "Posters Forthcoming"
-postersCommentsEnabled: false
+postersCommentsEnabled: true
 discusShortName: "alaoweb"
 
 # -------------------------------------------------------------
@@ -311,7 +311,7 @@ ticketsOffers:
    additionalInfo: ""
    ticketContentList: ["Keynotes", "Pre-recorded Sessions", "Posters"]
    validFrom: "2020-07-20"
-   validThrough: "2020-08-28"
+   validThrough: "2020-09-28"
    disabled: false
    soldOut: false
    soldOutText: "Sold Out"
@@ -326,8 +326,8 @@ ticketsOffers:
    buyButtonText: "Register Now"
    additionalInfo: ""
    ticketContentList: ["Keynotes", "Pre-recorded Sessions", "Posters"]
-   validFrom: "2020-08-29"
-   validThrough: "2020-10-18"
+   validFrom: "2020-09-29"
+   validThrough: "2020-10-16"
    disabled: true
    soldOut: false
    soldOutText: "Sold Out"
@@ -344,7 +344,7 @@ ticketsOffers:
    ticketContentList: ["Preconference"]
    altSubtitle: "Separate Ticket Required"
    validFrom: ""
-   validThrough: "2020-10-18"
+   validThrough: "2020-10-16"
    disabled: false
    soldOut: false
    soldOutText: "Sold Out"
@@ -361,7 +361,7 @@ ticketsOffers:
    ticketContentList: ["Preconference"]
    altSubtitle: ""
    validFrom: ""
-   validThrough: "2020-10-18"
+   validThrough: "2020-10-16"
    disabled: false
    soldOut: false
    soldOutText: "Sold Out"
