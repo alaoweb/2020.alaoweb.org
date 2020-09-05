@@ -251,8 +251,8 @@
         });
 
         /*
-                now that the filter pulldown is built, bind it to the filter action onChange
-                */
+         now that the filter pulldown is built, bind it to the filter action onChange
+        */
 
         $('#' + f.filterID).change(function (event) {
           let thisFilter = $(this).attr('id');
