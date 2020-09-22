@@ -104,7 +104,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-29 14:20:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 103
   title: "Speaking to Diversity through Information Literacy"
@@ -117,7 +117,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-30 09:00:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 104
   title: "Business Research Skills for Non-Business Librarians"
@@ -133,7 +133,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-30 14:30:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 105
   title: "Identity, Harm, and Hate in Special Collections"
@@ -146,7 +146,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-30 10:10:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 106
   title: "How do I use statistics to help my library?  Let me count the ways."
@@ -166,7 +166,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-30 11:20:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 107
   title: "Did it help?: Assessing how a change in streaming video access impacted expenditures and staff"
@@ -180,7 +180,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-29 11:10:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 108
   title: "Building New Networks: Outreach, Campus Partnerships, and Student Employment in a Pandemic"
@@ -196,7 +196,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-29 13:10:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 109
   title: "Analysis and Assessment of the 'Get it Now' Service, Five Years after Implementation - is it Fulfilling its Purpose Sustainably?"
@@ -209,7 +209,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-30 09:00:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 110
   title: "Supporting Information Literacy Learning in Developmental Writing Courses: A Model for Library and Writing Center Collaboration"
@@ -222,7 +222,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-29 15:30:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 111
   title: "Flexible, Scalable, and Sustainable Data Literacy Instruction: Remote Learning and Collaboration for the Future"
@@ -236,7 +236,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-30 14:30:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 112
   title: "Making Changes: Sustaining Innovative Services During a Pandemic"
@@ -249,7 +249,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-30 10:10:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 113
   title: "Dude Where is my Black Studies Library?"
@@ -263,7 +263,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-30 13:20:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 114
   title: "People-First Promotion: Rallying Library Workers during COVID-19"
@@ -277,7 +277,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-29 14:20:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 115
   title: "Cloud-based Video Editing as a Circulating Library Resource:  Deploying and Supporting a Web-based Creative Tool for Face-to-Face and Remote Instruction and Social Engagement"
@@ -290,7 +290,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-30 13:20:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 116
   title: "Beyond the Checklist: Introducing the SIFT Strategy to a Campus"
@@ -305,7 +305,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-30 11:20:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 117
   title: "Connecting Communities and Building Collections: Archiving a Community’s Resilience during a Pandemic"
@@ -321,7 +321,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-29 10:00:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 118
   title: "Teaching the Faculty to Teach Information Literacy: Examples and Considerations"
@@ -336,7 +336,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-29 11:10:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 119
   title: "Anchoring Change: Using the Kotter Change Management Framework to Analyze and Facilitate Change in Academic Libraries"
@@ -350,7 +350,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-29 15:30:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 120
   title: "Microaggressions in a Time of Trauma: Engaging Empathy with Colleagues as a Form of Antiracism"
@@ -365,7 +365,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-29 10:00:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 121
   title: "Diversity, Equity, and Inclusion as Action: Designing a Collective DEI Strategy"
@@ -383,7 +383,7 @@
   video:
   live-stream-type: Q&A
   live-stream-time: "2020-10-29 13:10:00"
-  live-stream-link:
+  live-stream-link: "https://www.example.com"
 
 - id: 122
   title: "Lunch"
