@@ -131,5 +131,21 @@
         "photo": ""
       }
     ]
+  },
+  {
+    "applicationForm": null,
+    "description": "VGhlIFBlb3BsZSdzIENob2ljZSBBd2FyZCByZWNvZ25pemVzIGV4Y2VsbGVuY2UgaW4gYSBwb3N0ZXIgcHJlc2VudGVkIGF0IHRoZSBBTEFPIEFubnVhbCBDb25mZXJlbmNlLiBWb3Rpbmcgb24gdGhlIEF3YXJkIGlzIG9wZW4gdG8gYWxsIGF0dGVuZGVlcy4gVm90ZXMgYXJlIHRhbGxpZWQgYnkgdGhlIFJlc2VhcmNoICYgUHVibGljYXRpb25zIENvbW1pdHRlZS4gVGhlIGF3YXJkIHdpbm5lciBpcyBhbm5vdW5jZWQgZm9sbG93aW5nIHRoZSBjb25mZXJlbmNlLCBhbmQgcmVjZWl2ZXMgYSAkMTAwIGF3YXJkLg==",
+    "infoUrl": "",
+    "title": "UGVvcGxlJ3MgQ2hvaWNlIFBvc3RlciBBd2FyZA==",
+    "type": "YXdhcmQ=",
+    "winners": [
+      {
+        "citation": "Rm9yIHRoZSBwb3N0ZXI6IDxhIGhyZWY9Ii9wb3N0ZXJzL3NvY2lhbC1qdXN0aWNlIj5MaWJHdWlkZXMgZm9yIFNvY2lhbCBKdXN0aWNlOiBUcmFuc2Zvcm1hdGl2ZSBvciBUcmFuc2FjdGlvbmFsPzwvYT4=",
+        "institution": "VGhlIE9oaW8gU3RhdGUgVW5pdmVyc2l0eQ==",
+        "name": "U3RlcGhhbmllIFBvcnJhdGE=",
+        "photo": "c3RlcGhhbmllX3BvcnJhdGEuanBn"
+      }
+    ],
+    "obfuscated": true
   }
 ]
